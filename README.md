@@ -6,7 +6,7 @@ Independent security research and audit reports for blockchain protocols, zkVMs,
 
 |Target                                              |Type                 |Date    |Findings            |
 |----------------------------------------------------|---------------------|--------|--------------------|
-|[ZKsync Airbender](zksync-airbender-audit-report.md)|STARK/AIR RISC-V zkVM|Feb 2026|No critical findings|
+|[ZKsync Airbender](https://github.com/auditinfra-io/Audits/blob/ddba8c95fae868ac2afaa808713cdbc88448518a/Zksync-airbender)|STARK/AIR RISC-V zkVM|Feb 2026|No critical findings|
 
 ## Scope
 
